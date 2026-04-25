@@ -50,7 +50,7 @@ resume-screening/
 
 ## ▶️ Run Locally
 
-git clone https://github.com/your-username/resume-screening-system.git
+git clone https://github.com/anuravi1604-cmd/resume-screening-system.git
 cd resume-screening-system
 pip install -r requirements.txt
 streamlit run app.py
