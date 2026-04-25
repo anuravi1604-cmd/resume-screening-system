@@ -2,12 +2,14 @@ import streamlit as st
 from utils import compute_match, extract_keywords, missing_keywords
 import PyPDF2
 
+st.write("App started") 
+
 st.set_page_config(page_title="AI Resume Screening System", layout="centered")
 
 st.title("📄 AI Resume Screening System")
 st.markdown("Analyze resume-job fit using NLP and similarity scoring")
 
-st.divider()
+st.write("---")
 
 # Upload section
 uploaded_file = st.file_uploader("Upload Resume (PDF or TXT)", type=["pdf", "txt"])
