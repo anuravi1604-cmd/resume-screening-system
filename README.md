@@ -5,7 +5,7 @@ An AI-powered web application that analyzes how well a resume matches a job desc
 ---
 
 ## 🚀 Live Demo
-👉 [https://your-app-name.streamlit.app](https://resume-screening-system-1604.streamlit.app/)
+👉 https://resume-screening-system-1604.streamlit.app/
 
 ---
 
